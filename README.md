@@ -209,7 +209,7 @@ The dataset is used to build semantic embeddings for efficient retrieval. :conte
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Research-Paper-Intelligence-System.git
+git clone https://github.com/rohit2483yadav/Research-Paper-Intelligence-System-using-Agentic-AI.git
 ```
 
 Move into the project
